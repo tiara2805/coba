@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\LayController;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\KasirController;
 use App\Http\Controllers\LoginController;
 use App\Http\Controllers\BarangController;
@@ -32,3 +33,4 @@ Route::resource('beranda', LayController::class);
 Route::resource('kasir', KasirController::class);
 Route::resource('barang', BarangController::class);
 Route::resource('transaksi', TransaksiController::class);
+Route::resource('blog', BlogController::class);

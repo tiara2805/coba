@@ -12,7 +12,7 @@
     <div class="container">
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
         <div class="container-fluid">
-          <a class="navbar-brand" href="#">Kasir Melu</a>
+          <a class="navbar-brand" href="#">KASIR MELU CAFE</a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
@@ -22,13 +22,16 @@
                 <a class="nav-link active" aria-current="page" href="#">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/barang">Barang</a>
+                <a class="nav-link" href="/barang"> Data Barang</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="/kasir">Kasir</a>
+                <a class="nav-link" href="/kasir">Data Kasir</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/transaksi">Transaksi</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="/blog">Blog</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="/login">Logout</a>
